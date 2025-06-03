@@ -3,7 +3,7 @@
 // @description  Suppress that awful "Please exit Source-edit mode before saving the changes" message
 // @namespace    accendgroup
 // @author       Dave Hughes <dave@accendgroup.com>
-// @version      1.0.0
+// @version      1.0.1
 // @match        http*://*/editor.html/*
 // @icon         https://cdn.iconscout.com/icon/premium/png-256-thumb/rte-file-11548104-9409932.png?f=webp&w=256
 // @grant        none
